@@ -1,0 +1,10 @@
+January 25, 2026
+
+Progress: I have decided what my project will be and who my client is, I will start putting together a plan to piece together data stored in multiple sources, and come up with a schedule as far as what I should have done when.
+Problems: N/A
+Plans: 
+- Figure out how to quantify "meaningful engagement"
+- Figure out which students I will be examining- what should the sample size be, how should I randomly select
+- Figure out how to track event attendance during the time that they were enrolled 
+- Figure out which outcome to track (employment, salary, etc.)
+Hours: None, this current week is the first week I will start working on it.
