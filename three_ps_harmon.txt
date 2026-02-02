@@ -8,3 +8,13 @@ Plans:
 - Figure out how to track event attendance during the time that they were enrolled 
 - Figure out which outcome to track (employment, salary, etc.)
 Hours: None, this current week is the first week I will start working on it.
+
+
+February 1, 2026
+
+Progress: I met with Professor Connor to discuss my project, I reached out to a coworker to discuss how she thinks I should approach it.
+Problems: Want to be sure that my project is best aligned for my desire to work internationally some day, and not that I'm just doing it because it's easiest.
+Plans:
+    - De-identify and pull data
+    - Figure out outcome and event tracking
+Hours: 2
