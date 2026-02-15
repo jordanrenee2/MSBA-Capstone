@@ -1,3 +1,13 @@
+February 15, 2026
+Progress:
+    - Pulled both sets of data, met with a coworker to discuss how to combine the sets
+Problems:
+    - I need to meet with my manager (client) to discuss the proper steps I need to take so that I am able to use the data, however she is gone until February 18. I will meet with her as soon as possible to make sure I can start completing this project.
+Plans:
+    - I need to get as far as I can in setting up my code and making plans to assign variables, determine significance, etc. until I am able to deidentify and officially start using the data.
+Hours: 2
+
+
 February 8, 2026
 Progress: Pulled the appropriate data, started making a plan.
 Problems: 
