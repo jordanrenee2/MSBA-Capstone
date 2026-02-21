@@ -1,3 +1,13 @@
+February 22, 2026
+Progress:
+    - I discovered that instead of FY 2024, I need to use FY 2023 (see below). I looked at the data more in depth this week, discussed more plans with a coworker as far as how in depth I wanted to be, how I wanted to measure certain variables, limitations of available data, etc.
+Problems:
+    - Upon reviewing the data I was going to use, I discovered that the data set I was going to use (Fiscal Year 2024) is inconsistent and incorrect. The response rate was too high, and we discovered that one of our data sources was imported incorrectly, skewing results. I will instead be using survey results from Fiscal Year 2023. 
+Plans:
+    - The next 2 weeks for me will be my major work weeks. I am a little bit behind because I haven't been able to meet with my supervisor to discuss the proper steps I need to take to be able to use the data (deidentifying, etc.). 
+Hours: 3
+
+
 February 15, 2026
 Progress:
     - Pulled both sets of data, met with a coworker to discuss how to combine the sets
