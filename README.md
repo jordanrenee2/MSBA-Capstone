@@ -1,4 +1,4 @@
-# Student Engagement and Career Outcomes Analysis
+# Experiential Learning and Career Success: An Outcomes-Based Evaluation
 
 ## Project Overview
 This project examines the relationship between student participation in co-curricular and career development activities and post-graduation career outcomes. The analysis focuses on whether engagement in activities such as volunteering, experiential learning, career center events, and career coaching appointments is associated with improved career success.
