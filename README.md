@@ -1,11 +1,40 @@
 # Experiential Learning and Career Success: An Outcomes-Based Evaluation
 
-## Project Overview
-This project examines the relationship between student participation in co-curricular and career development activities and post-graduation career outcomes. The analysis focuses on whether engagement in activities such as volunteering, experiential learning, career center events, and career coaching appointments is associated with improved career success.
 
-Career success is measured using outcomes such as employment status, alignment with chosen career field, and income. The findings are intended to support data-informed decision-making around student programming and resource allocation.
+## 🔹 Project Overview
+
+This project evaluates whether participation in experiential learning activities during college is associated with improved early career outcomes among alumni.
+
+Specifically, the analysis compares:
+
+- **Salaries** of graduates who participated in experiential learning versus those who did not  
+- **Salaries** of graduates who report that experiential learning helped them versus those who report it did not  
+- **Job satisfaction levels** of graduates who participated in experiential learning versus those who did not  
+
+Experiential learning participation is measured using survey responses indicating involvement in internships, volunteering, fellowships, research, and other applied learning experiences.
+
+Career outcomes are measured using:
+
+- Employment status  
+- Annual salary  
+- Self-reported employment quality and satisfaction indicators  
+
+The findings aim to support data-informed decision-making related to experiential learning programming and institutional resource allocation.
 
 ---
 
-## Research Question
-**Do students who participate in volunteering, experiential learning, and career development services experience stronger career outcomes than students who do not?**
+## 🔹 Research Questions
+
+This project addresses the following testable research questions:
+
+### 1️⃣ Salary Comparison (Participation-Based)
+Do graduates who participated in experiential learning earn higher annual salaries than those who did not?
+
+### 2️⃣ Salary Comparison (Perceived Helpfulness-Based)
+Do graduates who report that experiential learning helped them earn higher salaries than those who report it did not help?
+
+### 3️⃣ Job Satisfaction Comparison
+Do graduates who participated in experiential learning report higher job satisfaction than those who did not?
+
+### 🔎 Optional Extension
+Does the number of experiential learning activities completed predict higher salary or job satisfaction?
