@@ -124,3 +124,9 @@ The following statistical models are implemented:
      ```
      log_salary ~ EL_count + controls
      ```
+     
+---
+
+## How to Run the Project
+
+### 1. Clone the repository
