@@ -165,7 +165,7 @@ Regression and t-test summaries printed in console
 
 ## Project Structure
 
-    ```bash
+```bash
    ├─ README.md
    ├─ fds_2023.csv                  # raw alumni survey data
    ├─ fds_2023_processed.csv        # cleaned and feature-engineered data
@@ -173,4 +173,3 @@ Regression and t-test summaries printed in console
    ├─ analysis_visualization.R      # statistical modeling and visualization script
    └─ plots/                        # optional: saved visualizations
 
-Notes
