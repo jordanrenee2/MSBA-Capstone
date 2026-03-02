@@ -165,19 +165,12 @@ Regression and t-test summaries printed in console
 
 ## Project Structure
 
-├─ README.md
-├─ fds_2023.csv                  # raw alumni survey data
-├─ fds_2023_processed.csv        # cleaned and feature-engineered data
-├─ data_preprocessing.R          # preprocessing and feature engineering script
-├─ analysis_visualization.R      # statistical modeling and visualization script
-└─ plots/                        # optional: saved visualizations
+    ```bash
+   ├─ README.md
+   ├─ fds_2023.csv                  # raw alumni survey data
+   ├─ fds_2023_processed.csv        # cleaned and feature-engineered data
+   ├─ data_preprocessing.R          # preprocessing and feature engineering script
+   ├─ analysis_visualization.R      # statistical modeling and visualization script
+   └─ plots/                        # optional: saved visualizations
 
--- 
-
-**Notes**
-
-All analyses use complete-case data (missing salary or satisfaction values are excluded)
-
-Binary variables are clearly defined for EL participation and perceived helpfulness
-
-Optional extensions explore dose-response effects of multiple EL activities
+Notes
