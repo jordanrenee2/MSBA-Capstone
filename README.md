@@ -167,9 +167,14 @@ Regression and t-test summaries printed in console
 
 ```bash
    ├─ README.md
-   ├─ fds_2023.csv                  # raw alumni survey data
-   ├─ fds_2023_processed.csv        # cleaned and feature-engineered data
-   ├─ data_preprocessing.R          # preprocessing and feature engineering script
-   ├─ analysis_visualization.R      # statistical modeling and visualization script
-   └─ plots/                        # optional: saved visualizations
+   ├─ data/
+      ├─ fds_2023.csv                  # raw alumni survey data
+      ├─ fds_2023_processed.csv        # cleaned and feature-engineered data
+   ├─ scripts/
+      ├─ data_preprocessing.R          # preprocessing and feature engineering script
+      ├─ analysis_visualization.R      # statistical modeling and visualization script
+   ├─ docs/
+      ├─ formatting.txt                # provides details regarding data clearning and formatting
+      ├─ three_ps_harmon.txt           # provides weekly updates
+   └─ plots/                           # saved visualizations
 
