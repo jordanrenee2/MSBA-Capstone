@@ -1,0 +1,71 @@
+Formatting Changes Made
+
+
+
+Original survey question/column name: 
+"578320: 1.	Do you feel your employment adequately reflects the quality of education and career preparation you received at UM?"
+
+New column name: 
+job_alignment
+
+Response options:
+This position significantly fails to meet my expectations.
+This position fails to meet my expectations.
+No opinion.
+This position meets my expectations.
+This position exceeds my expectations.
+
+Recoded these to:
+This position significantly fails to meet my expectation OR This position fails to meet my expectations= 1
+No opinion= 2
+This position meets my expectations OR This position exceeds my expectations= 3
+
+
+Original survey question/column name: 
+"578321: 1.	Did you participate in any of the following experiential learning activities during your college career at UM?  Choose all that apply."
+
+New column name: 
+el_participation
+
+
+
+Original survey question/column name: 
+"578323: 3.	Did your participation in experiential learning activities help with your job search or other post-graduation plans?  "
+
+New column name: 
+el_helpfulness
+
+Response options: No, neutral, somewhat, yes
+
+Recoded these to:
+
+No= 1
+Neutral= 2
+Somewhat= 3
+Yes= 4
+
+
+
+Original survey question/column name: 
+"578322: 4.	Which experiential learning activities were most helpful in your ability to get a job or secure other post-graduation plans? Check all that apply."
+
+New column name: 
+el_most_helpful
+
+-- 
+
+Formatted other column names but kept wording, changed capitalization and replaced spaces with underscores 
+
+Columns were excluded with no data(recipient_veteran_status, recipient_first_generation, recipient_athlete_status)
+
+Columns with no relevant data application were excluded from the data set- these include
+recipient_visa_status, recipient_hometown, response_date, found_through_handshake, internship, is_fellowship, fellowship_name, offer_date, accept_date, start_date, work_authorization, submitted_by, location, military_branch, military_rank, specialization
+
+knowledge_repsonse category excluded- all responses treated as equal regardless of the source
+
+recipient_primary_major, recipient_secondary_major, and recipient_education_level differ from response_primary_major, response_secondary_major, and response_education_level because those labeled "recipient" automatically get fed from the Handshake feed. Those labeled "response" are what the student responds with. I only used recipient data.
+
+Student ID, first name, last name, and email were deleted from the data set. The survey assigns a random 7 digit ID to each recipient that was retained so that results can be reconnected with the original data set.
+
+
+We are only using rows that have "submitted" in the "response_status" column
