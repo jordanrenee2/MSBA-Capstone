@@ -137,16 +137,21 @@ The dataset consists of **post-graduation survey responses** (First Destination 
    cd <repository-directory>
    
 2. **Install required R packages (if not already installed)**
-
-install.packages(c("tidyverse","readr","janitor","stringr","MASS","purrr","ggplot2","broom","scales","dplyr","tidyr"))
-
-3. **Run data preprocessing script**
    
-source("data_preprocessing.R")  # generates fds_2023_processed.csv
+   ```bash
+   install.packages(c("tidyverse","readr","janitor","stringr","MASS","purrr","ggplot2","broom","scales","dplyr","tidyr"))
+
+
+4. **Run data preprocessing script**
+
+   ```bash
+   source("data_preprocessing.R")  # generates fds_2023_processed.csv
+
 
 4. **Run analysis and visualization script**
 
-source("analysis_visualization.R")  # generates plots, t-tests, and regression results
+   ```bash
+   source("analysis_visualization.R")  # generates plots, t-tests, and regression results
 
 5. Inspect outputs
 
