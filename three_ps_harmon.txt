@@ -1,3 +1,12 @@
+February 28, 2026
+Progress:
+    - I successfully deidentified the data (removed name, 790, email), and just kept the randomly generated ID so I'll be able to link it back to the original data set while maintaining individual student privacy. I finalized the presentation date where I will present to my Experiential Learning and Career Success team, and I'll be able to get the whole team's feedback, which includes the Executive Director of Experiential Learning and Career Success, Associate Director of Career Success, Associate Director of Experiential Learning, Assistant Director of Student Engagement, and the career coaches. I think all the different perspectives will be really interesting to present to. Finally, I downloaded all of the appropriate programs to my work computer so I am able to complete the work either at home or at work.
+    Problems:
+    -  I'm definitely a little bit farther behind than I would like to be, between having to wait to talk to my supervisor about using the data, to realizing I couldn't use the year I was planning on. I'm not too worried, but I'll definitely have to pick up the pace over the next few weeks.
+Plans:
+    - I really need to buckle down and get the coding done and decide on analyses. Meeting with Professor Connor on Tuesday will be really beneficial because I'll finally be able to share the data and see what kinds of analysis that should be done.
+Hours: 5
+
 February 22, 2026
 Progress:
     - I discovered that instead of FY 2024, I need to use FY 2023 (see below). I looked at the data more in depth this week, discussed more plans with a coworker as far as how in depth I wanted to be, how I wanted to measure certain variables, limitations of available data, etc.
