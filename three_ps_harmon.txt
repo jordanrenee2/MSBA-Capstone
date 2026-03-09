@@ -1,0 +1,68 @@
+March 8, 2026
+Progress:
+    - I completed my data cleaning, preliminary analysis, as well as met with Professor Connor to figure out next steps. I also cleaned and reorganized my Github repository.
+Problems:
+    - I thought I was giving my presentation to my client, not my prospective client. I'm a little unsure who I should present to, as well as how to present the information, especially if it disproves my hypothesis that experiential learning positively impacts outcome. 
+Plans:
+    - I need to run more regression analyses as well as determine my prospective client.
+Hours: 15
+
+February 28, 2026
+Progress:
+    - I successfully deidentified the data (removed name, 790, email), and just kept the randomly generated ID so I'll be able to link it back to the original data set while maintaining individual student privacy. I finalized the presentation date where I will present to my Experiential Learning and Career Success team, and I'll be able to get the whole team's feedback, which includes the Executive Director of Experiential Learning and Career Success, Associate Director of Career Success, Associate Director of Experiential Learning, Assistant Director of Student Engagement, and the career coaches. I think all the different perspectives will be really interesting to present to. Finally, I downloaded all of the appropriate programs to my work computer so I am able to complete the work either at home or at work.
+    Problems:
+    -  I'm definitely a little bit farther behind than I would like to be, between having to wait to talk to my supervisor about using the data, to realizing I couldn't use the year I was planning on. I'm not too worried, but I'll definitely have to pick up the pace over the next few weeks.
+Plans:
+    - I really need to buckle down and get the coding done and decide on analyses. Meeting with Professor Connor on Tuesday will be really beneficial because I'll finally be able to share the data and see what kinds of analysis that should be done.
+Hours: 5
+
+February 22, 2026
+Progress:
+    - I discovered that instead of FY 2024, I need to use FY 2023 (see below). I looked at the data more in depth this week, discussed more plans with a coworker as far as how in depth I wanted to be, how I wanted to measure certain variables, limitations of available data, etc.
+Problems:
+    - Upon reviewing the data I was going to use, I discovered that the data set I was going to use (Fiscal Year 2024) is inconsistent and incorrect. The response rate was too high, and we discovered that one of our data sources was imported incorrectly, skewing results. I will instead be using survey results from Fiscal Year 2023. 
+Plans:
+    - The next 2 weeks for me will be my major work weeks. I am a little bit behind because I haven't been able to meet with my supervisor to discuss the proper steps I need to take to be able to use the data (deidentifying, etc.). 
+Hours: 3
+
+
+February 15, 2026
+Progress:
+    - Pulled both sets of data, met with a coworker to discuss how to combine the sets
+Problems:
+    - I need to meet with my manager (client) to discuss the proper steps I need to take so that I am able to use the data, however she is gone until February 18. I will meet with her as soon as possible to make sure I can start completing this project.
+Plans:
+    - I need to get as far as I can in setting up my code and making plans to assign variables, determine significance, etc. until I am able to deidentify and officially start using the data.
+Hours: 2
+
+
+February 8, 2026
+Progress: Pulled the appropriate data, started making a plan.
+Problems: 
+    - One slight problem is that I need to meet with my manager (client) to discuss the proper steps so that I am able to utilize the data.
+    - Another problem is that I need to use two different data sets, and there is no easy way to match respondents between both sets (such as student ID). I may have to use email, which is not best practice.
+Plans:
+    - I need to meet with my manager to determine the most appropriate way to deidentify the data and ensure I'm going through all of the proper steps to use the data. Unfortunately, she will be gone for another week, so in the mean time I just need to start drafting my code and making a plan to assign variables, finalize what I am measuring and how I am determining significance, etc.
+Hours: 2
+
+February 1, 2026
+
+Progress: I met with Professor Connor to discuss my project, I reached out to a coworker to discuss how she thinks I should approach it.
+Problems: Want to be sure that my project is best aligned for my desire to work internationally some day, and not that I'm just doing it because it's easiest.
+Plans:
+    - De-identify and pull data
+    - Figure out outcome and event tracking
+Hours: 2
+
+January 25, 2026
+
+Progress: I have decided what my project will be and who my client is, I will start putting together a plan to piece together data stored in multiple sources, and come up with a schedule as far as what I should have done when.
+Problems: N/A
+Plans: 
+- Figure out how to quantify "meaningful engagement"
+- Figure out which students I will be examining- what should the sample size be, how should I randomly select
+- Figure out how to track event attendance during the time that they were enrolled 
+- Figure out which outcome to track (employment, salary, etc.)
+Hours: None, this current week is the first week I will start working on it.
+
+
