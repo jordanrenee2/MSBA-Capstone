@@ -1,0 +1,7 @@
+to do
+
+
+logistic regression on still looking or working (0 or 1 bad or good outcome)
+
+
+linear regression on salary (# of EL activities, EL or no)
