@@ -1,3 +1,13 @@
+March 15, 2026
+Progress:
+    - I have completed initial analysis, and have determined next steps for further analysis. 
+Problems:
+    - I need to determine who I can have as my prospective client, and I need to talk with my supervisor to see who she would be comfortable with me giving this presentation to, as the data is from our office, and if it does not show a significant positive correlation between experiential learning and outcome, she may not want it widely shared.
+Plans:
+    - I need to run more regression analyses as well as determine my prospective client, and speak with my supervisor regarding a presentation to a potential client.
+Hours: 5
+
+
 March 8, 2026
 Progress:
     - I completed my data cleaning, preliminary analysis, as well as met with Professor Connor to figure out next steps. I also cleaned and reorganized my Github repository.
